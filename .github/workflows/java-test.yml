@@ -21,4 +21,4 @@ jobs:
           distribution: 'temurin'
 
       - name: run tests
-        run: mvn tests
+        run: mvn test
